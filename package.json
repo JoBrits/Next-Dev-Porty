@@ -1,0 +1,20 @@
+{
+  "name": "developer-portfolio-app",
+  "version": "1.0.0",
+  "description": "Compulsory Task 1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "npw-build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Brits",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.2.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
